@@ -1,8 +1,4 @@
-package timemasta.timemasta.flagsquizapp.Model;
-
-/**
- * Created by reale on 30/09/2016.
- */
+package timemasta.flagsquizapp.Model;
 
 public class Ranking {
     private int Id;
