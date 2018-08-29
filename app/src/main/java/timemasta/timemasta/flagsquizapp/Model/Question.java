@@ -1,8 +1,6 @@
-package timemasta.timemasta.flagsquizapp.Model;
+package timemasta.flagsquizapp.Model;
 
-/**
- * Created by reale on 30/09/2016.
- */
+
 
 public class Question {
     private int ID;
