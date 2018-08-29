@@ -1,4 +1,4 @@
-package timemasta.timemasta.flagsquizapp;
+package timemasta.flagsquizapp;
 
 import android.content.Intent;
 import android.os.CountDownTimer;
