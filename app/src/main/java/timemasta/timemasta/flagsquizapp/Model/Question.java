@@ -1,7 +1,5 @@
 package timemasta.flagsquizapp.Model;
 
-
-
 public class Question {
     private int ID;
     private String Image;
