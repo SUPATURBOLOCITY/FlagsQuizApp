@@ -1,8 +1,4 @@
-package timemasta.timemasta.flagsquizapp.Common;
-
-/**
- * Created by reale on 30/09/2016.
- */
+package timemasta.flagsquizapp.Common;
 
 public class Common {
     public static final int EASY_MODE_NUM = 30; // NUMBER OF QUESTION IN EASY MODE
