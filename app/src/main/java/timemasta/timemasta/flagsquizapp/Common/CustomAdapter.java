@@ -1,4 +1,4 @@
-package timemasta.timemasta.flagsquizapp.Common;
+package timemasta.flagsquizapp.Common;
 
 import android.content.Context;
 import android.view.LayoutInflater;
